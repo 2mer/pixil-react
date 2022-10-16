@@ -1,0 +1,25 @@
+{
+	"name": "pixil_react",
+	"version": "1.0.0",
+	"description": "",
+	"main": "build/index.js",
+	"types": "build/types",
+	"scripts": {
+		"build": "tsc"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "Apache-2.0 license",
+	"devDependencies": {
+		"@sgty/pixil": "^1.0.16",
+		"@types/offscreencanvas": "^2019.7.0",
+		"@types/react": "^18.0.21",
+		"react": "^18.2.0",
+		"typescript": "^4.8.4"
+	},
+	"peerDependencies": {
+		"@sgty/pixil": "^1.0.15",
+		"@types/react": "^18.0.21",
+		"react": "^18.2.0"
+	}
+}
