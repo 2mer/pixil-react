@@ -1,5 +1,5 @@
 {
-	"name": "pixil_react",
+	"name": "@sgty/pixil-react",
 	"version": "1.0.1",
 	"description": "",
 	"main": "build/index.js",
